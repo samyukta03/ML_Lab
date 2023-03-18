@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 CGPA,Interactiveness,Practical Knowledge,Communication skills,Job offer 
 >=9,Yes,Vgood,Good,Yes
 >=8,No,Good,Moderate,Yes
@@ -9,3 +10,16 @@ CGPA,Interactiveness,Practical Knowledge,Communication skills,Job offer
 >=9,No,Vgood,Good,Yes
 >=8,Yes,Good,Good,Yes
 >=8,Yes,Avg,Good,Yes
+=======
+CGPA,Interactiveness,Practical Knowledge,Communication skills,Job offer 
+>=9,Yes,Vgood,Good,Yes
+>=8,No,Good,Moderate,Yes
+>=9,No,Avg,Poor,No
+<8,No,Avg,Good,No
+>=8,Yes,Good,Moderate,Yes
+>=9,Yes,Good,Moderate,Yes
+<8,Yes,Good,Poor,No
+>=9,No,Vgood,Good,Yes
+>=8,Yes,Good,Good,Yes
+>=8,Yes,Avg,Good,Yes
+>>>>>>> 6217d1aacb1d535b22748b13c9352993146a25fd
